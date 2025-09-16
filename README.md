@@ -1,0 +1,4 @@
+Python初心者が見よう見まねで作ったComfyUIのカスタムノードです
+言い訳や使い方はこちらのサイトに書いてあります
+
+https://note.com/alive_gibbon2712/n/nbf87591124d3
